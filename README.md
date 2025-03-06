@@ -3,7 +3,7 @@
   <a href="https://github.com/xlisden">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xlisden&show_icons=true&theme=default&include_all_commits=true&count_private=true&&cache_seconds=60"/>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlisden&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlisden&theme=default&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlisden&layout=compact&langs_count=7&theme=default"/>
 </div>
 
