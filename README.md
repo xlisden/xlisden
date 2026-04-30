@@ -1,9 +1,9 @@
-﻿## Hello! I'm Dayenira ^^.
+﻿## Hello! I'm Dayenira.
 <div>
   <a href="https://github.com/xlisden">
     
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlisden&theme=default&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlisden&layout=compact&langs_count=7&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlisden&theme=catppuccin_mocha&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlisden&layout=compact&langs_count=7&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **xlisden/xlisden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
