@@ -10,3 +10,10 @@
     <img src="https://skillicons.dev/icons?i=spring,postgres,dotnet,nodejs,typescript,git,github,gitlab,docker,postman,vscode,mysql,cpp" />
   </a>
 </p>
+
+<a href="https://auracheck.dev/xlisden">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://auracheck.dev/card/xlisden.svg?variant=full&theme=dark">
+    <img alt="Dayenira Delgado's open source reach" src="https://auracheck.dev/card/xlisden.svg?variant=full&theme=light">
+  </picture>
+</a>
